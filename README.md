@@ -22,7 +22,7 @@
 <div style="display: flex;">
   <img src="https://wallpapers.com/images/featured/29znwv1okz1k7dgb.jpg" width="300px" height="400" style="display: block;"/>
   <img src="https://static.zerochan.net/Ganyu.full.3917178.jpg" width="300px" height="400" style="display: block;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrciYiVRZdS--DITYqoYidkHZZveViCp1nQ&usqp=CAU" width="300px" height="400" style="display: block;"/>
+  <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/026e65b7-b5ce-451b-100b-c759657f2400/width=450/3978516830-1380816979-_ganyu%20_(genshin%20impact_),%201girl,%20ahoge,%20architecture,%20bangs,%20bare%20shoulders,%20bell,%20black%20gloves,%20black%20pantyhose,%20((blue%20hair)).jpeg" width="300px" height="400" style="display: block;"/>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Whitechan2077&icon=0&color=0)](https://visitcount.itsvg.in)
