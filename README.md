@@ -21,7 +21,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Whitechan2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 💕My Wife💕
-<div style="display: flex; justify-content: space-between; width:1055px;">
+<div style="display: flex; justify-content: space-between; width:1155px;">
   <img src="https://wallpapers.com/images/featured/29znwv1okz1k7dgb.jpg" width="250px" height="350" style="display: block;"/>
   <img src="https://static.zerochan.net/Ganyu.full.3917178.jpg" width="250px" height="350" style="display: block;"/>
   <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/026e65b7-b5ce-451b-100b-c759657f2400/width=450/3978516830-1380816979-_ganyu%20_(genshin%20impact_),%201girl,%20ahoge,%20architecture,%20bangs,%20bare%20shoulders,%20bell,%20black%20gloves,%20black%20pantyhose,%20((blue%20hair)).jpeg" width="250px" height="350" style="display: block;"/>
