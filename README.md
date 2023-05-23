@@ -19,11 +19,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Whitechan2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 💕My Wife💕
-    <div style="display: flex;">
-        <img src="https://wallpapers.com/images/featured/29znwv1okz1k7dgb.jpg" width="512px" style="display: block;"/>
-        <img src="https://static.zerochan.net/Ganyu.full.3917178.jpg" width="512px" style="display: block;"/>
-      </div>
----
+<div style="display: flex;">
+  <img src="https://wallpapers.com/images/featured/29znwv1okz1k7dgb.jpg" width="512px" style="display: block;"/>
+  <img src="https://static.zerochan.net/Ganyu.full.3917178.jpg" width="512px" style="display: block;"/>
+</div>
 [![](https://visitcount.itsvg.in/api?id=Whitechan2077&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
