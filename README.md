@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yuu and I'm a backed dev, from Vietnam</h2>
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="https://i.pinimg.com/originals/67/e7/21/67e721267b436262c445885383f54a97.jpg"  />
 </div>
 
 ###
