@@ -32,6 +32,9 @@
                 <img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
               </a>
 </div>
+<br>
+<br>
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Whitechan2077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
