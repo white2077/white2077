@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Yuu and I'm a backed dev, from Vietnam</h2>
-<br>
 
 ## 👨‍💼About me:
 ###
