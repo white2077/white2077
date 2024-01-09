@@ -50,19 +50,15 @@
   <img src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
 </div>
 
-##
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
 ## 🎵 My Music:
 <div align="left">
   <a href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<br/>  
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Whitechan2077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
