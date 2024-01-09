@@ -45,7 +45,7 @@
 
 ###
 
-## 👨‍💼 GitHub Viewer: <img width = "100px" src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
+## 👨‍💼 GitHub Viewer: <img width = "150px" src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
 
 
 ## 🎵 My Music:
