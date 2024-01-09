@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yuu and I'm a backed dev, from Vietnam</h2>
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
-</div>
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1840295351736082145/10733971827716C1303F818A058E06A3E72E1BA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
@@ -42,17 +39,11 @@
 
 ###
 
-
-
-###
-
+## 👨‍💼 GitHub Viewer:
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
 </div>
 
-###
-
-###
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Whitechan2077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whitechan2077&theme=dark&hide_border=false)<br/>
