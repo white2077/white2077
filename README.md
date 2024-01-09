@@ -51,7 +51,11 @@
 </div>
 
 ##
-![[https://spotify-github-profile.vercel.app/api/view.svg?uid=5nmgziyeg38ohvmstk91rqd99&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
 
 ## 🎵 My Music:
 <div align="left">
