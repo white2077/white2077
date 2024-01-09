@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  />
 </div>
-###
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1840295351736082145/10733971827716C1303F818A058E06A3E72E1BA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
