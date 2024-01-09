@@ -45,6 +45,13 @@
 </div>
 
 
+## 🎵 My Music:
+<div align="center">
+  <a href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Whitechan2077&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whitechan2077&theme=dark&hide_border=false)<br/>
