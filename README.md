@@ -30,11 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Whitechan2077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Whitechan2077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Whitechan2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Whitechan2077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎵 My Music:
 <div style="display: flex; justify-content: space-between;">
