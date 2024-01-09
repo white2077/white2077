@@ -14,7 +14,7 @@
     <li>Birhtday: 06/12</li>
     <li>Language: Java</li>
     <li>Framework: Srping-Boot</li>
-    <li> <img width = "125px" src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  /></li>
+    <li>Github viewer:<img width = "125px" src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  /></li>
   </ul>
 </div>
 
