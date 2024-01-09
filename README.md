@@ -52,14 +52,8 @@
 
 ## 🎵 My Music:
 <div style="display: flex; justify-content: space-between; width:1155px;">
- <div>
-        <img  src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-      </div>  
-          <div>
-              <a href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
-                <img src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
-              </a>
-     </div>
+ <img style="display: block;" src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />      
+        <img style="display: block;" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
 </div>
 
 ## 📊 GitHub Stats:
