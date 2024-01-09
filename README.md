@@ -4,7 +4,7 @@
 </div>
 
 ###
-<img align="right" height="150" with="800px" src="https://steamuserimages-a.akamaihd.net/ugc/1840295351736082145/10733971827716C1303F818A058E06A3E72E1BA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="150" width="20px" src="https://steamuserimages-a.akamaihd.net/ugc/1840295351736082145/10733971827716C1303F818A058E06A3E72E1BA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
