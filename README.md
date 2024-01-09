@@ -6,7 +6,11 @@
 <img align="left" height="200" src="https://steamuserimages-a.akamaihd.net/ugc/1840295351736082145/10733971827716C1303F818A058E06A3E72E1BA9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
-
+<div style="display: flex; justify-content: space-between;">
+ <img style="display: block;"  width="235px"  src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />  <a style="display: block;" href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
+                <img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
+              </a>
+</div>
 <div align="left">
   <ul style="list-style: none;">
     <li>Full Name: Bui Hoang Dung</li>
@@ -17,11 +21,6 @@
     <li>Framework: Srping-Boot</li>
     <li>Github viewer: <img width = "100px" src="https://profile-counter.glitch.me/Whitechan2077/count.svg?"  /></li>
   </ul>
-</div>
-<div style="display: flex; justify-content: space-between;">
- <img style="display: block;"  width="235px"  src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />  <a style="display: block;" href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
-                <img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
-              </a>
 </div>
 
 <br>
