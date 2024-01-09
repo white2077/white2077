@@ -32,12 +32,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Whitechan2077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Whitechan2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🎵 My Music:
+<div style="display: flex; justify-content: space-between;">
+ <img style="display: block;"  width="235px"  src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />  <a style="display: block;" href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
+                <img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
+              </a>
+</div>
 ### 💕My Wife💕
 <div style="display: flex; justify-content: space-between; width:1155px;">
   <img src="https://wallpapers.com/images/featured/29znwv1okz1k7dgb.jpg" width="250px" height="350" style="display: block;"/>
