@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <ul>
+  <ul style="list-style: none;">
     <li>Full Name: Bui Hoang Dung</li>
     <li>Education: FPT Polytechnic</li>
     <li>Age: unknow ^^</li>
