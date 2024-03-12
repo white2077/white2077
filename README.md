@@ -12,11 +12,11 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Whitechan2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=white2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Whitechan2077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=white2077&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎵 My Music:
 <div style="display: flex; justify-content: space-between;">
