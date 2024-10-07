@@ -22,7 +22,6 @@
 
 <h3 align="left">🎵 My Music:</h3>
 <div style="display: flex; justify-content: space-between;">
- <img style="display: block;"  width="235px"  src="https://spotify-github-profile.vercel.app/api/view?uid=5nmgziyeg38ohvmstk91rqd99&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />  <a style="display: block;" href="https://open.spotify.com/user/5nmgziyeg38ohvmstk91rqd99">
                 <img width="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=5nmgziyeg38ohvmstk91rqd99&count=5" alt="Spotify recently played"  />
               </a>
 </div>
