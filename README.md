@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Dung</h1>
-<h3 align="center">A Bwackewnd Enginyeew ヾ(•ω•`)o from Vietnam</h3>
+<h3 align="center">A "Thằng ăn bám" ヾ(•ω•`)o from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white2077&label=Profile%20views&color=0e75b6&style=flat" alt="white2077" /> </p>
 
