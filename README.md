@@ -10,9 +10,15 @@
 - 📫 How to reach me **dungbui8198@gmail.com.**
 
 - ⚡ Fun fact **I'm a Fps player :)**
+  
 - 🔫 CSGO: **DPI: 1200, SEN: 0.8**
+  
 - 🔫 Valorant: **DPI: 1200, SEN: 0.17**
-
+  
+- 🖱️ Mouse: **Delux M800 Pro**
+  
+- 💻 Resolution: **1400 x 1050 (4:3)**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hoangkousui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoangkousui" height="30" width="40" /></a>
