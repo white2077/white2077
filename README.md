@@ -10,6 +10,8 @@
 - 📫 How to reach me **dungbui8198@gmail.com.**
 
 - ⚡ Fun fact **I'm a Fps player :)**
+- 🔫 CSGO: **DPI: 1200, SEN: 0.8**
+- 🔫 Valorant: **DPI: 1200, SEN: 0.17**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
