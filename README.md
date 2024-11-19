@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white2077&label=Profile%20views&color=0e75b6&style=flat" alt="white2077" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework.**
+- 🌱 I’m currently learning **Spring Framework, .Net Framework**
 
 - 💬 Ask me about **Java, C#.**
 
