@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hoang Dung</h1>
-<h3 align="center">A Junior Java Software Engineer from Vietnam</h3>
+<h3 align="center">A Junior Java Software Engineer from đường phố</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white2077&label=Profile%20views&color=0e75b6&style=flat" alt="white2077" /> </p>
 
-- 🌱 I’m currently working with **Spring** **Framework**, **Kafka**, **Redis** ,**Microservice System**
+- 🌱 I’m currently working with **Spring** **Framework**, **Kafka**, **Redis**, **Microservice System.**
 
 - 💬 Ask me about **Java, C#.**
 
