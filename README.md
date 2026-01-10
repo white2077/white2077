@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white2077&label=Profile%20views&color=0e75b6&style=flat" alt="white2077" /> </p>
 
 - 🌱 I’m currently working with **Spring** **Framework**, **Kafka**, **Redis**, **Microservice System.**
-
+- 
+- 🌱 I’m learing about **React js** **Redux**, **Redux-Saga**.
+- 
 - 💬 Ask me about **Java, C#.**
 
 - 📫 How to reach me **dungbui8198@gmail.com.**
